@@ -1,0 +1,36 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar {
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.side {
+    width:200px;
+    height:80px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+}
+li {
+    padding: 10px;
+}
+.elon {
+    width:50vw;
+    height:80vh;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+
+  .Submit{
+      color: white;
+      background-color: aquamarine;
+  }
